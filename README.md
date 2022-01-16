@@ -1,3 +1,5 @@
+![](/client/images/krypto.png)
+
 # Blockchain App
 - Credits: https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=1214s
 
